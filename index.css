@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+}
+
+.cityLabel{
+    font-size: 20px;
+    text-decoration: solid;
+    font-weight: bold;
+}
+#cityId{
+    border: 2px solid black;
+    border-radius: 20px;
+}
